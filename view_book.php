@@ -4,7 +4,7 @@
         <title>Testing...</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <script type="text/javascript" language="javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script type="text/javascript" language="javascript" src="<?=base_url()?>resources/js/jsqueries.js"></script>
+        <script type="text/javascript" language="javascript" src="/js/jsqueries.js"></script>
        
     </head>
     <body>
